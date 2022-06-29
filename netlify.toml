@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/home"
-  to = "https://imwzx.netlify.app/"
+  to = "https://imwzx.netlify.app/home"
   status = 301
   force = true
 
@@ -25,5 +25,17 @@
 [[redirects]]
   from = "/post/about"
   to = "https://imwzx.netlify.app/post/about"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/link/favicon.ico"
+  to = "https://imwzx-nav.netlify.app/favicon.ico"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/game/favicon.ico"
+  to = "https://imwzx-game.netlify.app/favicon.ico"
   status = 301
   force = true
