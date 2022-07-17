@@ -87,6 +87,25 @@ svg.icon { width: 14px; height: 14px; margin: 0 5px 0 8px; vertical-align: -0.15
 }
 @media screen and (max-width:560px){
 }
+.footer-box {
+    background: rgba(0,0,0,0.25);
+    position: relative;
+    padding: 15px 0;
+  }
+  
+  .footer {
+    min-height: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: #eee;
+  }
+  
+  .footer a {
+    color: #E1FFFF;
+    text-decoration: none;
+    border-bottom: none;
+    word-wrap: break-word;
+  }
 
 
 
